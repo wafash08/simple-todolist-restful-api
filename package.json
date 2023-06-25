@@ -1,0 +1,23 @@
+{
+  "name": "todolist-restful-api",
+  "version": "1.0.0",
+  "description": "RESTful api todolist sederhana",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wafash08/simple-todolist-restful-api.git"
+  },
+  "keywords": [
+    "restful",
+    "api"
+  ],
+  "author": "wafasaefulhaq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wafash08/simple-todolist-restful-api/issues"
+  },
+  "homepage": "https://github.com/wafash08/simple-todolist-restful-api#readme"
+}
